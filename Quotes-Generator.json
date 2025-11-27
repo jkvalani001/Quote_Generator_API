@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "author": "Steve Jobs",
+    "text_en": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+    "text_hi": "महान कार्य करने का एकमात्र तरीका यह है कि आप जो करते हैं उससे प्यार करें। यदि आपने इसे अभी तक नहीं पाया है, तो खोजते रहें। समझौता मत करो।",
+    "text_gu": "મહાન કાર્ય કરવાનો એકમાત્ર રસ્તો એ છે કે તમે જે કરો છો તેને પ્રેમ કરો. જો તમને તે હજી સુધી મળ્યું નથી, તો શોધતા રહો. સમાધાન કરશો નહીં."
+  },
+  {
+    "id": 2,
+    "author": "Mahatma Gandhi",
+    "text_en": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "text_hi": "ऐसे जियो जैसे कि तुम कल मरने वाले हो। ऐसे सीखो जैसे कि तुम हमेशा के लिए जीने वाले हो।",
+    "text_gu": "એવી રીતે જીવો કે જાણે તમે કાલે મરવાના છો. એવી રીતે શીખો કે જાણે તમે હંમેશ માટે જીવવાના છો."
+  },
+  {
+    "id": 3,
+    "author": "APJ Abdul Kalam",
+    "text_en": "Dream is not that which you see while sleeping it is something that does not let you sleep.",
+    "text_hi": "सपना वह नहीं है जो आप सोते समय देखते हैं, यह वह है जो आपको सोने नहीं देता है।",
+    "text_gu": "સ્વપ્ન એ નથી જે તમે ઊંઘતી વખતે જુઓ છો, તે કંઈક એવું છે જે તમને ઊંઘવા દેતું નથી."
+  },
+  {
+    "id": 4,
+    "author": "Swami Vivekananda",
+    "text_en": "Arise, awake and stop not till the goal is reached.",
+    "text_hi": "उठो, जागो और तब तक मत रुको जब तक लक्ष्य प्राप्त न हो जाए।",
+    "text_gu": "ઉઠો, જાગો અને ધ્યેય પ્રાપ્ત ન થાય ત્યાં સુધી અટકશો નહીં."
+  },
+  {
+    "id": 5,
+    "author": "Albert Einstein",
+    "text_en": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "text_hi": "जीवन साइकिल चलाने जैसा है। अपना संतुलन बनाए रखने के लिए, आपको चलते रहना होगा।",
+    "text_gu": "જીવન સાયકલ ચલાવવા જેવું છે. તમારું સંતુલન જાળવવા માટે, તમારે આગળ વધતા રહેવું પડશે."
+  },
+  {
+    "id": 6,
+    "author": "Mother Teresa",
+    "text_en": "Not all of us can do great things. But we can do small things with great love.",
+    "text_hi": "हम सभी महान कार्य नहीं कर सकते। लेकिन हम छोटे काम बड़े प्यार से कर सकते हैं।",
+    "text_gu": "આપણે બધા મહાન કાર્યો કરી શકતા નથી. પરંતુ આપણે નાના કાર્યો ખૂબ પ્રેમથી કરી શકીએ છીએ."
+  },
+  {
+    "id": 7,
+    "author": "Buddha",
+    "text_en": "The mind is everything. What you think you become.",
+    "text_hi": "मन ही सब कुछ है। जैसा आप सोचते हैं वैसा आप बन जाते हैं।",
+    "text_gu": "મન જ બધું છે. તમે જે વિચારો છો તે તમે બની જાઓ છો."
+  },
+  {
+    "id": 8,
+    "author": "Nelson Mandela",
+    "text_en": "It always seems impossible until it's done.",
+    "text_hi": "जब तक कोई काम पूरा नहीं हो जाता, तब तक वह असंभव लगता है।",
+    "text_gu": "જ્યાં સુધી તે પૂર્ણ ન થાય ત્યાં સુધી તે હંમેશા અશક્ય લાગે છે."
+  },
+  {
+    "id": 9,
+    "author": "Rumi",
+    "text_en": "Don’t be satisfied with stories, how things have gone with others. Unfold your own myth.",
+    "text_hi": "कहानियों से संतुष्ट न हों, कि दूसरों के साथ चीजें कैसे हुई हैं। अपनी खुद की गाथा को उजागर करें।",
+    "text_gu": "વાર્તાઓથી સંતુષ્ટ ન થાઓ કે બીજા સાથે શું થયું છે. તમારી પોતાની પૌરાણિક કથાને પ્રગટ કરો."
+  },
+  {
+    "id": 10,
+    "author": "Confucius",
+    "text_en": "It does not matter how slowly you go as long as you do not stop.",
+    "text_hi": "यह मायने नहीं रखता कि आप कितनी धीमी गति से चलते हैं, जब तक कि आप रुकते नहीं हैं।",
+    "text_gu": "તમે કેટલા ધીમે ચાલો છો તેનાથી કોઈ ફરક પડતો નથી જ્યાં સુધી તમે અટકતા નથી."
+  }
+]
